@@ -1,16 +1,8 @@
-body {
+{
 	margin: 0;
 	padding: 0;
+	height: 100%;
 	color: #484848;
 	font-size: 14px;
 	font-family: Circular, "Helvetica Neue", Helvetica,Arial,sans-serif;
-}
-.logo {
-	background-image:
-	url("../images/logo.png");
-	background-repeat: no-repeat;
-	background-position: left center;
-	height: 70px;
-	width: 70px;
-	margin-left: 20px;
 }
